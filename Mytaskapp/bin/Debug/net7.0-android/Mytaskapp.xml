@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mytaskapp</name>
+    </assembly>
+    <members>
+        <member name="T:Mytaskapp.ViewModel.DetailViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Mytaskapp.ViewModel.DetailViewModel.Text">
+            <inheritdoc cref="F:Mytaskapp.ViewModel.DetailViewModel.text"/>
+        </member>
+        <member name="F:Mytaskapp.ViewModel.DetailViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:Mytaskapp.ViewModel.DetailViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:Mytaskapp.ViewModel.DetailViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Mytaskapp.ViewModel.DetailViewModel.GoBack"/>.</summary>
+        </member>
+        <member name="T:Mytaskapp.ViewModel.MainViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Mytaskapp.ViewModel.MainViewModel.Items">
+            <inheritdoc cref="F:Mytaskapp.ViewModel.MainViewModel.items"/>
+        </member>
+        <member name="P:Mytaskapp.ViewModel.MainViewModel.Text">
+            <inheritdoc cref="F:Mytaskapp.ViewModel.MainViewModel.text"/>
+        </member>
+        <member name="F:Mytaskapp.ViewModel.MainViewModel.addCommand">
+            <summary>The backing field for <see cref="P:Mytaskapp.ViewModel.MainViewModel.AddCommand"/>.</summary>
+        </member>
+        <member name="P:Mytaskapp.ViewModel.MainViewModel.AddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Mytaskapp.ViewModel.MainViewModel.Add"/>.</summary>
+        </member>
+        <member name="F:Mytaskapp.ViewModel.MainViewModel.deleteCommand">
+            <summary>The backing field for <see cref="P:Mytaskapp.ViewModel.MainViewModel.DeleteCommand"/>.</summary>
+        </member>
+        <member name="P:Mytaskapp.ViewModel.MainViewModel.DeleteCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Mytaskapp.ViewModel.MainViewModel.Delete(System.String)"/>.</summary>
+        </member>
+        <member name="F:Mytaskapp.ViewModel.MainViewModel.tapCommand">
+            <summary>The backing field for <see cref="P:Mytaskapp.ViewModel.MainViewModel.TapCommand"/>.</summary>
+        </member>
+        <member name="P:Mytaskapp.ViewModel.MainViewModel.TapCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:Mytaskapp.ViewModel.MainViewModel.Tap(System.String)"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Text">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Text" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Items">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Items" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Text">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Text" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Items">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Items" generated properties.</summary>
+        </member>
+    </members>
+</doc>
