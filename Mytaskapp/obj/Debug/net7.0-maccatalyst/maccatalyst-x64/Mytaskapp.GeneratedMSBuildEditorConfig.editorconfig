@@ -8,39 +8,39 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mytaskapp
-build_property.ProjectDir = C:\Users\sskis\OneDrive\Desktop\T4 xmal\Mytaskapp\
+build_property.ProjectDir = C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\
 
-[C:/Users/sskis/OneDrive/Desktop/T4 xmal/Mytaskapp/App.xaml]
+[C:/Users/sskis/OneDrive/Desktop/T4 xmal/AppTask/Mytaskapp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mytaskapp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/sskis/OneDrive/Desktop/T4 xmal/Mytaskapp/AppShell.xaml]
+[C:/Users/sskis/OneDrive/Desktop/T4 xmal/AppTask/Mytaskapp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mytaskapp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/sskis/OneDrive/Desktop/T4 xmal/Mytaskapp/DetailPage.xaml]
+[C:/Users/sskis/OneDrive/Desktop/T4 xmal/AppTask/Mytaskapp/DetailPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mytaskapp.DetailPage.xaml
 build_metadata.AdditionalFiles.TargetPath = DetailPage.xaml
 build_metadata.AdditionalFiles.RelativePath = DetailPage.xaml
 
-[C:/Users/sskis/OneDrive/Desktop/T4 xmal/Mytaskapp/MainPage.xaml]
+[C:/Users/sskis/OneDrive/Desktop/T4 xmal/AppTask/Mytaskapp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mytaskapp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/sskis/OneDrive/Desktop/T4 xmal/Mytaskapp/Resources/Styles/Colors.xaml]
+[C:/Users/sskis/OneDrive/Desktop/T4 xmal/AppTask/Mytaskapp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mytaskapp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/sskis/OneDrive/Desktop/T4 xmal/Mytaskapp/Resources/Styles/Styles.xaml]
+[C:/Users/sskis/OneDrive/Desktop/T4 xmal/AppTask/Mytaskapp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mytaskapp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

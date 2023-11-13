@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sskis\\OneDrive\\Desktop\\T4 xmal\\Mytaskapp\\Mytaskapp.csproj": {}
+    "C:\\Users\\sskis\\OneDrive\\Desktop\\T4 xmal\\AppTask\\Mytaskapp\\Mytaskapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sskis\\OneDrive\\Desktop\\T4 xmal\\Mytaskapp\\Mytaskapp.csproj": {
+    "C:\\Users\\sskis\\OneDrive\\Desktop\\T4 xmal\\AppTask\\Mytaskapp\\Mytaskapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sskis\\OneDrive\\Desktop\\T4 xmal\\Mytaskapp\\Mytaskapp.csproj",
+        "projectUniqueName": "C:\\Users\\sskis\\OneDrive\\Desktop\\T4 xmal\\AppTask\\Mytaskapp\\Mytaskapp.csproj",
         "projectName": "Mytaskapp",
-        "projectPath": "C:\\Users\\sskis\\OneDrive\\Desktop\\T4 xmal\\Mytaskapp\\Mytaskapp.csproj",
+        "projectPath": "C:\\Users\\sskis\\OneDrive\\Desktop\\T4 xmal\\AppTask\\Mytaskapp\\Mytaskapp.csproj",
         "packagesPath": "C:\\Users\\sskis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sskis\\OneDrive\\Desktop\\T4 xmal\\Mytaskapp\\obj\\",
+        "outputPath": "C:\\Users\\sskis\\OneDrive\\Desktop\\T4 xmal\\AppTask\\Mytaskapp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -93,6 +93,10 @@
               "target": "Package",
               "version": "[7.0.92, )",
               "autoReferenced": true
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
             },
             "Xamarin.Android.Glide": {
               "target": "Package",
@@ -215,6 +219,10 @@
               "target": "Package",
               "version": "[7.0.92, )",
               "autoReferenced": true
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
             }
           },
           "imports": [
@@ -282,6 +290,10 @@
               "target": "Package",
               "version": "[7.0.92, )",
               "autoReferenced": true
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
             }
           },
           "imports": [
@@ -360,6 +372,10 @@
               "target": "Package",
               "version": "[1.2.221209.1, )",
               "autoReferenced": true
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
             }
           },
           "imports": [
