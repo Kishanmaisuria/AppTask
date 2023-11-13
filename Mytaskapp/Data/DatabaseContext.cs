@@ -1,6 +1,4 @@
-﻿
-using CoreGraphics;
-using SQLite;
+﻿using SQLite;
 using System.Linq.Expressions;
 
 namespace Mytaskapp.Data
@@ -37,9 +35,11 @@ namespace Mytaskapp.Data
 
         public async Task<IEnumerable<TTable>> GetFileteredAsync<TTable>(Expression<Func<TTable, bool>> predicate) where TTable : class, new()
         {
-            await Database.CreateTableAsync<TTable>();
-            return await Database.Table<TTable>().Where(predicate).ToListAsync();
+            var table = await GetTableAsync<TTable>();
+            return await table.Where(predicate).ToListAsync();
+
         }
+
 
 
 
