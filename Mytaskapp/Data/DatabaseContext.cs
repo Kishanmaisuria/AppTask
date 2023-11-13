@@ -73,6 +73,8 @@ namespace Mytaskapp.Data
             return await Database.DeleteAsync<TTable>(PrimaryKey) > 0;
         }
 
+        public async ValueTask DisposeAsync() => await _connection?.CloseAsync();
+
 
 
 
