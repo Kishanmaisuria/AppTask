@@ -40,6 +40,43 @@ namespace Mytaskapp.Data
 
         }
 
+        public async Task<bool> AddItemAsync<TTable>(TTable item) where TTable : class, new()
+        {
+            await CTINE<TTable>();
+            return await Database.InsertAsync(item) > 0;
+        }
+        //GetItemByID = GIBID
+        public async Task<TTable> GIBIDAsync<TTable>(object PrimaryKey) where TTable : class, new()
+        {
+            await CTINE<TTable>();
+            return await Database.GetAsync<TTable>(PrimaryKey);
+        }
+
+        public async Task<bool> UpdateItemAsync<TTable>(TTable item) where TTable : class, new()
+        {
+            await CTINE<TTable>();
+            return await Database.UpdateAsync(item) > 0;
+        }
+
+        public async Task<bool> DeleteItemAsync<TTable>(TTable item) where TTable : class, new()
+        {
+            await CTINE<TTable>();
+            return await Database.DeleteAsync(item) > 0;
+
+        }
+
+
+        //DeleteItemByID = DIBID
+        public async Task<bool> DIBIDAsync<TTable>(object PrimaryKey) where TTable : class, new()
+        {
+            await CTINE<TTable>();
+            return await Database.DeleteAsync<TTable>(PrimaryKey) > 0;
+        }
+
+
+
+
+
 
 
 
