@@ -1950,3 +1950,9 @@ C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\obj\Debug\net7.0-andro
 C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\obj\Debug\net7.0-android\android\assets\SQLite-net.dll
+C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.core.dll
+C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.nativelibrary.dll
+C:\Users\sskis\OneDrive\Desktop\T4 xmal\AppTask\Mytaskapp\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
