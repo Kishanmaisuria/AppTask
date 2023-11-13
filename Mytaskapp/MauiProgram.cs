@@ -1,5 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
+using Mytaskapp.Data;
 using Mytaskapp.ViewModel;
+
 
 namespace Mytaskapp
 {
@@ -23,9 +25,12 @@ namespace Mytaskapp
             builder.Services.AddTransient<DetailPage>();
             builder.Services.AddTransient<DetailViewModel>();
 
+            
+
 #if DEBUG
             builder.Logging.AddDebug();
 #endif
+            builder.Services.AddSingleton<DatabaseContext>();
 
             return builder.Build();
         }

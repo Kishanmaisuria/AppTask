@@ -7,7 +7,7 @@ namespace Mytaskapp.Models
     {
         [PrimaryKey,AutoIncrement]
         public int Id { get; set; }
-        public string Items { get; set; }
+        public string Name { get; set; }
 
 
     }

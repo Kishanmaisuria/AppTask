@@ -5,7 +5,7 @@ namespace Mytaskapp.Data
 {
     public class DatabaseContext
     {
-        private const string DbName = "Mydata.db";
+        private const string DbName = "Mydata.db3";
         private static string Dbpath => Path.Combine(FileSystem.AppDataDirectory, DbName);
 
         private SQLiteAsyncConnection _connection;
