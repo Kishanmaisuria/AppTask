@@ -98,6 +98,10 @@
               "target": "Package",
               "version": "[3.13.0, )"
             },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
             "Xamarin.Android.Glide": {
               "target": "Package",
               "version": "[4.13.2.2, )",
@@ -228,6 +232,10 @@
               "target": "Package",
               "version": "[3.13.0, )"
             },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
             "sqlite-net-pcl": {
               "target": "Package",
               "version": "[1.8.116, )"
@@ -302,6 +310,10 @@
             "SQLite": {
               "target": "Package",
               "version": "[3.13.0, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
@@ -388,6 +400,10 @@
             "SQLite": {
               "target": "Package",
               "version": "[3.13.0, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
